@@ -17,10 +17,12 @@ https://hungunicorn.github.io/smart-on-fhir-tutorial/example-smart-app/health.ht
 
 ### Cerner
 This endpint shows after login, you can see the logined patient info of Cerner.
-https://hungunicorn.github.io/smart-on-fhir-tutorial/example-smart-app/launch-patient.html?iss=https://fhir-myrecord.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca
+https://hungunicorn.github.io/smart-on-fhir-tutorial/example-smart-app/launch-patient.html?iss=https://fhir-myrecord.cerner.com/dstu2/ec2458f2-1e24-41c8-b71b-0e701af7583d
 
 #### Test patient
-Username/password: wilma_smart/Cerner01
+Username/password: nancysmart/Cerner01
+
+https://docs.google.com/document/d/10RnVyF1etl_17pyCyK96tyhUWRbrTyEcqpwzW-Z-Ybs/edit
 
 ### Epic
 This endpint shows after login, you can see the logined patient info of Epic
